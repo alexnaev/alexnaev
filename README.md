@@ -9,7 +9,7 @@ I've been programming in PHP for 7 years, and .NET for 4 years (as of 2022). Rec
 *   🌍  I'm based in Scandinavia
 *   🖥️  See my portfolio at [alexnaev.no](http://alexnaev.no)
 *   ✉️  You can contact me at [post@alexnaev.no](mailto:post@alexnaev.no)
-*   🚀  I'm currently working on a .NET Blazor mini project
+*   🚀  I'm currently working on an ASP.NET MVC project
 *   🧠  I'm currently learning .NET Blazor
 
 <a href="https://www.github.com/alexnaev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alexnaev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/AlexanderNaev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/AlexanderNaev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
